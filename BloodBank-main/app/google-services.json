@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "81659668312",
+    "firebase_url": "https://bloodblank1-default-rtdb.firebaseio.com",
+    "project_id": "bloodblank1",
+    "storage_bucket": "bloodblank1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81659668312:android:4d778a864263d55968672d",
+        "android_client_info": {
+          "package_name": "com.example.bloodblank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ZxZQkK9XpMTJmTH8uk6xS2ZflwM_wyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
