@@ -20,7 +20,7 @@ Authentication: Firebase Authentication (for secure logins)
 🚀 Getting Started
 Clone the repository:
 
-git clone https://github.com/your-username/blood-bank-android-app.git
+(https://github.com/Mudassir-khan-08/Blood-Bank-Android-App.git)
 Open the project in Android Studio.
 
 Set up Firebase and configure it in your project.
